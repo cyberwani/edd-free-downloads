@@ -43,6 +43,7 @@ body.edd-frozen {
 
 form#edd_free_download_form {
     position: relative;
+    float: none;
 }
 
 .edd-free-downloads-modal-close {
